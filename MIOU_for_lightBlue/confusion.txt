@@ -1,0 +1,3 @@
+Classes	is_human	Non_human
+is_human	6011011.0	2926330.0
+Non_human	814586.0	44722427.0
